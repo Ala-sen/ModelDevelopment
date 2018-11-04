@@ -1,2 +1,2 @@
 # ModelDevelopment
-the codes of Credit Risk Scorecards
+Shen Ying's codes.
